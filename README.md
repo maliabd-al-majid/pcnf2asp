@@ -2,7 +2,7 @@
 Converting cnf/ pcnf formula into logic program
 
 
-#Usage
+# Usage
 
 ```python
 python3 pcnf2asp.py  [inputfile]
