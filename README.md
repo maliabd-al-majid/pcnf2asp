@@ -1,5 +1,5 @@
 # pcnf2asp
-Converting cnf/ pcnf formula into logic program
+Converting cnf/ pcnf formula into ASP program
 
 
 # Usage
